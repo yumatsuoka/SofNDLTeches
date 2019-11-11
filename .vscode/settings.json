@@ -1,0 +1,17 @@
+{
+    "python.autoComplete.addBrackets": true,
+    "git.autofetch": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=88",
+        "--ignore=E203"
+    ],
+    "python.formatting.provider": "black",
+    "editor.suggestSelection": "first",
+    "editor.formatOnSave": true,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "python.linting.lintOnSave": true,
+    "window.zoomLevel": 1,
+}
