@@ -1,6 +1,6 @@
 # Pytorch MNIST Example custumed with SofNDLTeches
 
-This is cloned official Pytorch MNIST example code and it's modified with the techniques from the following website.  
+This is cloned [official Pytorch MNIST example](https://github.com/pytorch/examples) code and it's modified with the techniques from the following website.  
 [How we beat the FastAI leaderboard score by +19.77%…a synergy of new deep learning techniques for your consideration.](https://medium.com/@lessw/how-we-beat-the-fastai-leaderboard-score-by-19-77-a-cbb2338fab5c)  
 
 ## Additional Features
@@ -57,6 +57,8 @@ optional arguments:
 ```
 
 ## Reference
+- [pytorch/examples](https://github.com/pytorch/examples)
 - [Ranger-Mish-ImageWoof-5](https://github.com/lessw2020/Ranger-Mish-ImageWoof-5)
 - [res2net-plus](https://github.com/lessw2020/res2net-plus) 
 - [Ranger-Deep-Learning-Optimizer](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer)
+
