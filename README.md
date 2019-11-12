@@ -59,6 +59,7 @@ optional arguments:
 ## Reference
 - [pytorch/examples](https://github.com/pytorch/examples)
 - [Ranger-Mish-ImageWoof-5](https://github.com/lessw2020/Ranger-Mish-ImageWoof-5)
+- [Mish](https://github.com/digantamisra98/Mish)
 - [res2net-plus](https://github.com/lessw2020/res2net-plus) 
 - [Ranger-Deep-Learning-Optimizer](https://github.com/lessw2020/Ranger-Deep-Learning-Optimizer)
 
